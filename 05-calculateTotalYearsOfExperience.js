@@ -16,6 +16,11 @@
 
 function calculateTotalYearsOfExperience() {
 
+  // create an array of objects
+  //I do not know when to add my own variables and vaules--- 
+  //for example 01-sum.js I first thought I was inputting my own numbers... not, it was not the case
+// create employee object with the properties os name: and Years of experience 
+
 }
 
 try {

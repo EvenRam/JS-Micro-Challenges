@@ -14,7 +14,10 @@
 //     should evaluate to "dolphinBoopBeepBoop"
 
 
-function smooshSomeStrings() {
+function smooshSomeStrings(["", num1]) {
+  
+  // create an array with stings and a number
+  //return sting and numbers 
   
 }
 

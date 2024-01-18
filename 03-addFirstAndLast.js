@@ -10,9 +10,11 @@
 // addFirstAndLast([-9, 12, 33, 29])
 //     should evaluate to 20
 
+function addFirstAndLast([numbers]) {
 
-function addFirstAndLast([sum1, sum2, sum3, sum4]) {
-  let sum = addFirstAndLast(0,3)
+ numbers = addFirstAndLast
+return 
+ //return [0,3]
 }
 /// I am stuck.... 
 try {
