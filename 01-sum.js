@@ -9,15 +9,15 @@
 // sum(2, 7)
 //     should evaluate to 9
 
-//const num1 = 3;
-//const num2 = 2;
+//const num1 = 5;
+//const num2 = 3;
 
 function sum(num1, num2) {
   return num1 + num2
   //return num1 + num2; i tired both return and console.log. 
   //I am confused about that they are asking me to do
 //console.log(num1 + num2) ;
-//
+//I figured it out! LOL
 
 }
  

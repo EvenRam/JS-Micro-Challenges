@@ -3,6 +3,7 @@
 // If the first number is bigger than the second number, the function should
 // return "The first number was bigger!"
 
+
 // If the second number is bigger than the first number, the function should
 // return "The second number was bigger!"
 
@@ -21,9 +22,22 @@
 //     should evaluate to "The numbers are the same!"
 
 
-function compareTwoNumbers() {
 
+function compareTwoNumbers(num1,num2) {
+
+  if(num1 > num2){
+    return 'The first number was bigger!';
+  }
+  else if(num2 > num1){
+    return 'The second number was bigger!';
+  }
+  else if (num1 === num2 ){
+    return 'The numbers are the same!'
+  }
 }
+
+
+
 
 try {
   module.exports = compareTwoNumbers;
