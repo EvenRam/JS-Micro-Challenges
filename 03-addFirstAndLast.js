@@ -11,10 +11,10 @@
 //     should evaluate to 20
 
 
-function addFirstAndLast() {
-
+function addFirstAndLast([sum1, sum2, sum3, sum4]) {
+  let sum = addFirstAndLast(0,3)
 }
-
+/// I am stuck.... 
 try {
   module.exports = addFirstAndLast;
 } catch (err) {
